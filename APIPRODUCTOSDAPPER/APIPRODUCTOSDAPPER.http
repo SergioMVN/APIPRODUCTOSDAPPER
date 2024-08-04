@@ -1,0 +1,6 @@
+@APIPRODUCTOSDAPPER_HostAddress = http://localhost:5165
+
+GET {{APIPRODUCTOSDAPPER_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
