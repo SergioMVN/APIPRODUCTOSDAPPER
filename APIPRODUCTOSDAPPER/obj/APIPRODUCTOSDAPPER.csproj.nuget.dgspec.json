@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sergi\\source\\repos\\APIPRODUCTOSDAPPER\\APIPRODUCTOSDAPPER\\APIPRODUCTOSDAPPER.csproj": {}
+    "C:\\Users\\sergi\\OneDrive\\Escritorio\\Repositorios\\APIPRODUCTOSDAPPER\\APIPRODUCTOSDAPPER\\APIPRODUCTOSDAPPER.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sergi\\source\\repos\\APIPRODUCTOSDAPPER\\APIPRODUCTOSDAPPER\\APIPRODUCTOSDAPPER.csproj": {
+    "C:\\Users\\sergi\\OneDrive\\Escritorio\\Repositorios\\APIPRODUCTOSDAPPER\\APIPRODUCTOSDAPPER\\APIPRODUCTOSDAPPER.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sergi\\source\\repos\\APIPRODUCTOSDAPPER\\APIPRODUCTOSDAPPER\\APIPRODUCTOSDAPPER.csproj",
+        "projectUniqueName": "C:\\Users\\sergi\\OneDrive\\Escritorio\\Repositorios\\APIPRODUCTOSDAPPER\\APIPRODUCTOSDAPPER\\APIPRODUCTOSDAPPER.csproj",
         "projectName": "APIPRODUCTOSDAPPER",
-        "projectPath": "C:\\Users\\sergi\\source\\repos\\APIPRODUCTOSDAPPER\\APIPRODUCTOSDAPPER\\APIPRODUCTOSDAPPER.csproj",
+        "projectPath": "C:\\Users\\sergi\\OneDrive\\Escritorio\\Repositorios\\APIPRODUCTOSDAPPER\\APIPRODUCTOSDAPPER\\APIPRODUCTOSDAPPER.csproj",
         "packagesPath": "C:\\Users\\sergi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sergi\\source\\repos\\APIPRODUCTOSDAPPER\\APIPRODUCTOSDAPPER\\obj\\",
+        "outputPath": "C:\\Users\\sergi\\OneDrive\\Escritorio\\Repositorios\\APIPRODUCTOSDAPPER\\APIPRODUCTOSDAPPER\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -39,50 +39,22 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Dapper": {
-              "target": "Package",
-              "version": "[2.1.35, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.4.0, )"
-            },
-            "System.Data.SqlClient": {
-              "target": "Package",
-              "version": "[4.8.6, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
         }
       }
     }
